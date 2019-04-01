@@ -4,6 +4,7 @@ workspace.xml
 __pycache__
 .idea
 *.Rhistory
+.ipynb_checkpoints/
 
 # Windows image file caches
 Thumbs.db
@@ -52,3 +53,4 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/Chapter01/tflogs/
