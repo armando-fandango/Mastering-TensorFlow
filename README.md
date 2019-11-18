@@ -1,3 +1,5 @@
+Please note that this repository is not being maintained anymore.
+
 # Mastering TensorFlow 1.x
 This is the code repository for [Mastering TensorFlow 1.x](https://www.packtpub.com/big-data-and-business-intelligence/mastering-tensorflow-1x?utm_source=github&utm_medium=repository&utm_campaign=9781788292061), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
